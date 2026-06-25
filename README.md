@@ -4,7 +4,7 @@ A simple, clean Linktree-style landing page that connects visitors
 to my GitHub, LinkedIn, and portfolio website — all in one place.
 
 ## 🔗 Live Demo
-[View Page](https://armanforouharfard.github.io/My-Linktree/index.html)
+[My-Linktree](https://armanforouharfard.github.io/My-Linktree/index.html)
 
 ## 📌 About The Project
 A personal one-page hub built as a quick, centralized way to share 
